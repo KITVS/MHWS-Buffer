@@ -123,7 +123,7 @@
             "title": "능력치",
             "bonus_attack": "공격 보너스",
             "bonus_defence": "방어 보너스",
-            "critical_chance": "최심율 증가",
+            "critical_chance": "회심율 증가",
             "element": {
             "title": "속성",
             "none": "속성 없음",
@@ -148,7 +148,7 @@
         "unlimited_sharpness": "예리도 무한",
         "unlimited_consumables": "소비 아이템 무한",
         "unlimited_slingers": "슬링어 탄약 무한",
-        "unlimited_meal_timer": "Unlimited Meal Timer(*)"
+        "unlimited_meal_timer": "식사 효과 무한"
     },
     "great_sword": {
         "title": "대검",
@@ -235,8 +235,8 @@
         "unlimited_bladescale": "칼날비늘 탄 무제한",
         "no_reload": "재장전 필요없음",
         "no_recoil": "반동 없음",
-        "shell_level": "Shell level (*)",
-        "all_rapid_fire": "All rapid fire (*)"
+        "shell_level": "탄 레벨",
+        "all_rapid_fire": "모든 속사 기능"
     },
     "heavy_bowgun": {
         "title": "헤비 보우건",
@@ -248,7 +248,7 @@
         "unlimited_bladescale": "칼날비늘 탄 무제한",
         "no_reload": "재장전 필요없음",
         "no_recoil": "반동 없음",
-        "shell_level": "Shell level (*)"
+        "shell_level": "탄 레벨"
     },
     "charge_blade": {
         "title": "차지 액스",
@@ -265,4 +265,5 @@
         "powered_axe": "고출력 상태"
     }
 }
+
 
